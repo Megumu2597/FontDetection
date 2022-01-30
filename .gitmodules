@@ -1,0 +1,3 @@
+[submodule "TextRecognitionDataGener"]
+	path = TextRecognitionDataGenerator
+	url = https://github.com/Megumu2597/TextRecognitionDataGenerator
